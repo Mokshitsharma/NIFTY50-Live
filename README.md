@@ -1,5 +1,21 @@
-# NIFTY50 Full Data Pipeline for Power BI Dashboard
+<!-- readme-refresh 2026-11 -->
+<div align="center">
 
+# ⏱️ NIFTY 50 Live
+
+**Polls prices and fundamentals for all 50 NIFTY stocks every minute**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/yfinance-720E9E?style=for-the-badge&logo=yahoo&logoColor=white" alt="yfinance" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+
+</div>
+
+## ✨ Highlights
+
+- All 50 constituents
+- Updates every minute
+- Writes CSV outputs
+
+<!-- body -->
 This project provides a robust Python pipeline to fetch and aggregate free data for ALL NIFTY 50 companies, producing five ready-to-use CSV sheets for a comprehensive Power BI dashboard. Data sources include `yfinance`, optional `nsepython`, and light web scraping, ensuring maximum coverage from public APIs.
 
 ## Features
@@ -78,3 +94,7 @@ pip install nsepython
 ## License
 
 Open-source under the MIT License.
+
+---
+
+<div align="center"><sub>Built by <a href="https://github.com/Mokshitsharma">Mokshit Sharma</a> · <a href="https://mokshitsharma27.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mokshit-sharma-75b5ab305">LinkedIn</a></sub></div>

@@ -1,0 +1,9 @@
+# Third-party imports found in the code, without pinned versions.
+beautifulsoup4
+nsepython
+numpy
+pandas
+requests
+schedule
+tqdm
+yfinance
